@@ -28,4 +28,20 @@ body {
     section h2 {
         margin-bottom: 10px;
     }
+    ul {
+        list-style: none;
+        padding: 0;
+    }
     
+    ul li {
+        margin-bottom: 10px;
+    }
+    a {
+        color:;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+        color:green;
+    }
