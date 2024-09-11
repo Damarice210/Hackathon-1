@@ -4,4 +4,10 @@ body {
     margin:0 ;
     background-color:aquamarine;
     }
+    header {
+        background-color:darkcyan;
+        color:lightblue;
+        padding: 1em 0;
+        text-align: left;
+       }
     
